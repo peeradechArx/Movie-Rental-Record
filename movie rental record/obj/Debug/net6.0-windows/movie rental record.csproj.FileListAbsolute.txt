@@ -1,0 +1,19 @@
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\bin\Debug\net6.0-windows\movie rental record.exe
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\bin\Debug\net6.0-windows\movie rental record.deps.json
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\bin\Debug\net6.0-windows\movie rental record.runtimeconfig.json
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\bin\Debug\net6.0-windows\movie rental record.dll
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\bin\Debug\net6.0-windows\movie rental record.pdb
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie_rental_record.Properties.Resources.resources
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.dll
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\refint\movie rental record.dll
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.pdb
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie rental record.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\ref\movie rental record.dll
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie_rental_record.Form3.resources
+C:\Users\ASUS\source\repos\movie rental record\movie rental record\obj\Debug\net6.0-windows\movie_rental_record.Form1.resources
