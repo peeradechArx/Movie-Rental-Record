@@ -10,15 +10,16 @@ namespace movie_rental_record
     {
         private string _num;
         private string _name;
-        private string _amount;
-        private string _date;
-
-        public ClassCD(string num, string name, string mounth, string date)
+        private string _day;
+        private string _mounth;
+        
+        public ClassCD(string num, string name, string day, string mounth)
         {
             this._num = num;
             this._name = name;
-            this._amount = mounth;
-            this._date = date;
+            this._day = day;
+            this._mounth = mounth;
+            
         }
         public string getNum()
         {
@@ -28,13 +29,13 @@ namespace movie_rental_record
         {
             return _name;
         }
+        public string getDay()
+        {
+            return _day;
+        }
         public string getMounth()
         {
-            return _amount;
-        }
-        public string getDate()
-        {
-            return _date;
+            return _mounth;
         }
     }
 }

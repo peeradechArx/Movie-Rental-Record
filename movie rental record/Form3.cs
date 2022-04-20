@@ -23,7 +23,7 @@ namespace movie_rental_record
                     string ClassCDRAW = readAllLine[i];
                     string[] ClassCDSplited = ClassCDRAW.Split(',');
                     ClassCD classCD = new ClassCD(ClassCDSplited[0], ClassCDSplited[1], ClassCDSplited[2], ClassCDSplited[3]);
-                    addDataToGridView("01", "name", "1", "12");
+                    addDataToGridView(ClassCDSplited[0], ClassCDSplited[1], ClassCDSplited[2], ClassCDSplited[3]);
                 }
             }
             void addDataToGridView(string num, string name, string Day, string Month)
@@ -81,7 +81,21 @@ namespace movie_rental_record
             dataGridView1.Rows[n].Cells[3].Value = comboBoxMonth.Text ;
             textBoxNum.Text = "";
             textBoxNamemoive.Text = "";
-           
+            comboBoxDay.Text = "";
+            comboBoxMonth.Text = "";
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Visible = false;
+            Form1 form1 = new Form1();
+            form1.Visible = true;
         }
     }
 }
